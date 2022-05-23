@@ -1,2 +1,2 @@
-# metorok
+# motorok
 motorok
